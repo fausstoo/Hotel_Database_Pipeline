@@ -1,7 +1,8 @@
 # Hotel_Database
 Developement of a SQL Hotels Database from the ground using Excel spreadsheets, for then analyse and visualize Hotel Booking data. \
 
-Requirements: \ 
+Requirements:
+
 Build a visual data story or dashboard using Power BI to present to the stakeholders. 
 
 A) Data Pipeline: \
