@@ -2,14 +2,14 @@
 Developement of a SQL Hotels Database from the ground using Excel spreadsheets, for then analyse and visualize Hotel Booking data. \
 
 Requirements: \ 
-Build a visual data story or dashboard using Power BI to present to the stakeholders. \
+Build a visual data story or dashboard using Power BI to present to the stakeholders. 
 
 A) Data Pipeline: \
 1 - Build a Database. \
 2 - Develope the SQL query. \
 3 - Conenct Power BI to the database. \
 4 - Visualizations. \
-5 - Summarize findings. \
+5 - Summarize findings. 
 
 B) SQL query's used: \
 -- CREATING AN UNIFIED TEMP TABLE \
@@ -43,4 +43,4 @@ C) Business questions answered by the Dashboard: \
 3 - "What is the market segmentation trend?" \
 4 - "Wich are the countries who has the more reveneu over time?" \
 5 - "What is the average discount by country?" \
-6 - "Trend of Week Nights vs Weekend Nights" \
+6 - "Trend of Week Nights vs Weekend Nights" 
