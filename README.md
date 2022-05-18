@@ -4,10 +4,10 @@ Developement of a SQL Hotels Database from the ground using Excel spreadsheets, 
 Requirements: \
 Build a visual data story or dashboard using Power BI to present to the stakeholders. 
 
-Tools: \
-- Data from Excel spreadsheets. \
-- MSSMS (Microsoft SQL Server Management Studio). \
-- Power BI. \
+Tools: 
+- Data from Excel spreadsheets. 
+- MSSMS (Microsoft SQL Server Management Studio). 
+- Power BI. 
 - Power Query. 
 
 A) Data Pipeline: \
