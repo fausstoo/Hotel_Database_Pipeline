@@ -1,5 +1,5 @@
 # Hotel_Database
-Developement of a SQL Hotels Database from the ground using Excel spreadsheets, for then analyse and visualize Hotel Booking data. \
+Developement of a SQL Hotels Database from the ground using Excel spreadsheets, for then analyse and visualize Hotel Booking data. 
 
 Requirements:
 
